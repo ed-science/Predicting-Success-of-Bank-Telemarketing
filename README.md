@@ -11,7 +11,7 @@ Como mencionado acima, o conjunto de dados consiste em dados de campanhas de mar
 Consiste em um problema de classificação binária. As duas classes são "sim" denotando que o cliente assinou um depósito a prazo e "não" denotando que o cliente não assinou.
 
 # Modelos de desempenho:
-Utilizados modelos de classificação e regressão e classificação.
+Utilizados modelos de classificação e regressão.
   
 
 
