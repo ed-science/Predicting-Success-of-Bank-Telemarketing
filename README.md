@@ -1,4 +1,4 @@
-# Previsão do sucesso do telemarketing bancário
+# Previsão do sucesso da campanha de telemarketing bancário
 Os dados estão relacionados com campanhas de marketing direto (telefonemas) de uma instituição bancária portuguesa. O objetivo da classificação é prever se o cliente assinará um depósito a prazo (variável y)
 
 # Sobre o problema:
