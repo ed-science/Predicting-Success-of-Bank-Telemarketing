@@ -10,5 +10,8 @@ Como mencionado acima, o conjunto de dados consiste em dados de campanhas de mar
 # Tipo de problema de aprendizado de máquina:
 Consiste em um problema de classificação binária. As duas classes são "sim" denotando que o cliente assinou um depósito a prazo e "não" denotando que o cliente não assinou.
 
-# Métrica de desempenho usada:
-A métrica de desempenho usada para este estudo de caso é a pontuação ROC da AUC, também conhecida como AUROC (Área sob as características operacionais do receptor).
+# Modelos de desempenho:
+Utilizados modelos de classificação e regressão e classificação.
+  
+
+
